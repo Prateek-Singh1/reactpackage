@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(245, 252, 189);
+}
+
+.header {
+    margin-top: 90px;
+    color: orange;
+    text-shadow: 5px 5px 5px black;
+  
+    
+     
+}
+
+.classComp {
+    position: absolute;
+    margin-left: -340px;
+    margin-top: 50px;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    background-color: orange;
+    color: white;
+}
+.funcComp{
+    position: absolute;
+    margin-left: 100px;
+    margin-top: 50px;
+    height: 40px;
+    width: 200px;
+    border-radius: 10px;
+    border: none;
+    background-color: orange;
+    color: white;
+}
+
+.box1 {
+    position: absolute;
+    border-radius: 15px;
+    height: 200px;
+    width: 350px;
+    margin: 150px 0px 0px 350px;
+    background-color: turquoise;
+    color: white;
+    
+}
+
+.box2 {
+    position: absolute;
+    border-radius: 15px;
+    height: 200px;
+    width: 350px;
+    margin: 150px 0px 0px 800px;
+    background-color: turquoise;
+    color: white;
+   
+}
+
+/*-------------EMPLOYEE--------------------*/
+
+#name {
+    margin: 40px 0px 0px 10px;
+    
+}
+
+#department {
+    margin: 40px 0px 0px 10px;
+}
+
+#rating {
+    margin: 40px 0px 0px 10px;
+}
+
+#btn {
+    margin-top: 40px;
+    height: 30px;
+    width: 100px;
+}
