@@ -55,12 +55,12 @@ const Employee2 = () => {
             <br/>
             <div>
                 {
-                    Employe.map((curElem) => {
+                    Employe.map((newValues) => {
                         return(
                             <div className='showDataStyle'>
-                                <p>Name : {curElem.username} | </p>
-                                <p>Department : {curElem.department} |</p>
-                                <p>rating : {curElem.rating} </p>
+                                <p>Name : {newValues.username} | </p>
+                                <p>Department : {newValues.department} |</p>
+                                <p>rating : {newValues.rating} </p>
                             </div>
                         )
                             
