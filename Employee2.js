@@ -32,7 +32,7 @@ const Employee2 = () => {
     
     return (
         <div>
-            <h1>Employees Details</h1>
+            <h1>Employees feedback Details</h1>
             <form action="" onSubmit={handleSubmit}>
             <br/>
                 <div>
